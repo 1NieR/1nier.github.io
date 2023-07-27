@@ -93,7 +93,7 @@ a:hover {
 
 
 /* Адаптивный дизайн для телефонов */
-@media (max-width: 480px) {
+@media (max-width: 657px) {
     h1 {
         font-size: 32px;
     }
